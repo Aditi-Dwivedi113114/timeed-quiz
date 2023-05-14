@@ -1,0 +1,1 @@
+SELECT * FROM quizzes_db.quizzes;
